@@ -1,4 +1,4 @@
-# Python Data Analysis
+# Data Analysis
 
 ## Requirements
 - Python 3.x
